@@ -84,6 +84,7 @@ vehicles:
     title: Zoe
     capacity: 60 # kWh
     user: myuser # user
+    icon: car # use: car, bike, scooter, moped, motorcycle, van, bus, tractor, generic, heater, cooler, waterheater for different icons in UI
     password: mypassword # password
     vin: WREN...
     onIdentify: # set defaults when vehicle is identified
